@@ -1,0 +1,27 @@
+.component{
+ display: grid;
+    color: grey;
+font-family: cooper;
+    text-align: center;
+}
+.qus{
+    border: 2px solid grey;
+    font-size: 25px;
+    margin: 20px;
+    background-color: grey;
+    color: black;
+}
+.qus:hover{
+    background-color: black;
+    color: white;
+}
+.ans{
+    
+    border: 2px solid grey;
+    font-size: 20px;
+    margin: 20px;
+}
+.ans:hover{
+    color: white;
+}
+

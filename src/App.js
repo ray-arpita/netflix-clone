@@ -1,24 +1,37 @@
-import logo from './logo.svg';
+// import Navbar from './components/Navbar';
 import './App.css';
+import FirstDiv from './components/FirstDiv';
+import Features from './components/Features';
+// import MainPage from './components/MainPage';
+import FAQ from './components/FAQ';
+import Footer from './components/Footer';
+import tvImage from './Images/tv.png'; 
+import phone from './Images/phone2.jpeg';
+import kidImg from "./Images/children.jpeg"
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+    <div className="App" >
+ <FirstDiv/>
+ <Features 
+ text="Enjoy on your TV " 
+ text2="Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more."
+ Img = {tvImage}
+ />
+ <Features text="Create profiles for kids" text2="Send children on adventures with their favourite characters in a space made just for them—free with your membership."  Img = {kidImg} />
+ <Features Img = {phone} text="Download your shows to watch offline" text2="Save your favourites easily and always have something to watch.
+
+"  />
+ <br/>
+ {/* <MainPage/><br/> */}
+ <FAQ/><br/>
+ <Footer/>
+
     </div>
+ 
   );
 }
 

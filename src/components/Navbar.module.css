@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Tilt+Prism&display=swap');
+
+
+
+
+
+.header{
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  height: 60px;
+  
+
+}
+
+
+  #netflix
+   {
+    font-weight: bold;
+    color: red;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: 'Castoro Titling', cursive;
+    font-size: 30px;
+
+
+
+
+
+  }
+  .select{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: rgb(158, 150, 150);
+  }
+  
+  button{
+    background-color: red;
+    color: white;
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+border-radius: 5px;
+border: 1px solid grey;
+margin-right: 20px;
+  }

@@ -1,0 +1,28 @@
+.sidebar2 {
+    background-color: #191717;
+    width: 180px;
+    height: 1200px;
+    margin-left: 0;
+    margin-top: 25px;
+    position: fixed;
+    border-right: 10px solid red;
+  
+  }
+  
+  .sidebar2 ul {
+    list-style: none;
+    padding: 50px;
+  }
+  .sidebar2 li {
+    margin-bottom: 80px;
+  }
+  
+  .sidebar2  a {
+    color: white;
+    text-decoration: none;
+    font-family: cooper;
+  }
+a:hover{
+
+  color: grey;
+}

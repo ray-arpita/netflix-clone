@@ -1,0 +1,77 @@
+{
+    "movies": [
+      {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "year": 1995,
+        "poster": "https://example.com/posters/dilwale_dulhania_le_jayenge.jpg",
+        "netflixLink": "https://www.netflix.com/watch/123456"
+      },
+      {
+        "name": "Kabhi Khushi Kabhie Gham",
+        "year": 2001,
+        "poster": "https://example.com/posters/kabhi_khushi_kabhie_gham.jpg",
+        "netflixLink": "https://www.netflix.com/watch/789012"
+      },
+      {
+        "name": "3 Idiots",
+        "year": 2009,
+        "poster": "https://example.com/posters/3_idiots.jpg",
+        "netflixLink": "https://www.netflix.com/watch/345678"
+      },
+      {
+        "name": "Padmaavat",
+        "year": 2018,
+        "poster": "https://example.com/posters/padmaavat.jpg",
+        "netflixLink": "https://www.netflix.com/watch/901234"
+      },
+      {
+        "name": "Jab We Met",
+        "year": 2007,
+        "poster": "https://example.com/posters/jab_we_met.jpg",
+        "netflixLink": "https://www.netflix.com/watch/567890"
+      },
+      {
+        "name": "Guzarish",
+        "year": 2010,
+        "poster": "https://example.com/posters/guzarish.jpg",
+        "netflixLink": "https://www.netflix.com/watch/234567"
+      },
+      {
+        "name": "Pink",
+        "year": 2016,
+        "poster": "https://example.com/posters/pink.jpg",
+        "netflixLink": "https://www.netflix.com/watch/890123"
+      },
+      {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "poster": "https://example.com/posters/the_shawshank_redemption.jpg",
+        "netflixLink": "https://www.netflix.com/watch/345678"
+      },
+      {
+        "name": "Inception",
+        "year": 2010,
+        "poster": "https://example.com/posters/inception.jpg",
+        "netflixLink": "https://www.netflix.com/watch/901234"
+      },
+      {
+        "name": "The Dark Knight",
+        "year": 2008,
+        "poster": "https://example.com/posters/the_dark_knight.jpg",
+        "netflixLink": "https://www.netflix.com/watch/567890"
+      },
+      {
+        "name": "Anjaana Anjaani",
+        "year": 2010,
+        "poster": "https://example.com/posters/anjaana_anjaani.jpg",
+        "netflixLink": "https://www.netflix.com/watch/456789"
+      },
+      {
+        "name": "Rockstar",
+        "year": 2011,
+        "poster": "https://example.com/posters/rockstar.jpg",
+        "netflixLink": "https://www.netflix.com/watch/987654"
+      }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+
+
+.main{
+    /* background-image: url(bg.jpeg) ; */
+    /* background-image: url(bg.jpeg); */
+background-image: url(N.webp);
+
+    width: 1280px;
+    height: 500px;
+    background-repeat: no-repeat;
+   margin:"0px";
+
+}
+
